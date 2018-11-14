@@ -1,4 +1,4 @@
 > lengths(out_gatc)
  direction chromosome   position   seqrence        ipd PulseWidth
      97425      97425      97425      97425      97425      97425
-> lengths(out_catg)
+> lengths(out_ catg)
